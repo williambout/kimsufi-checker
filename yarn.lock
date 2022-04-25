@@ -63,6 +63,11 @@ delayed-stream@~1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/delayed-stream/-/delayed-stream-1.0.0.tgz#df3ae199acadfb7d440aaae0b29e2272b24ec619"
 
+dotenv@^16.0.0:
+  version "16.0.0"
+  resolved "https://registry.yarnpkg.com/dotenv/-/dotenv-16.0.0.tgz#c619001253be89ebb638d027b609c75c26e47411"
+  integrity sha512-qD9WU0MPM4SWLPJy/r2Be+2WgQj8plChsyrCNQzW/0WjvcJQiKQJ9mH3ZgB3fxbUUxgc/11ZJ0Fi5KiimWGz2Q==
+
 ecc-jsbn@~0.1.1:
   version "0.1.2"
   resolved "https://registry.yarnpkg.com/ecc-jsbn/-/ecc-jsbn-0.1.2.tgz#3a83a904e54353287874c564b7549386849a98c9"
@@ -240,6 +245,11 @@ safe-buffer@^5.0.1, safe-buffer@^5.1.2:
 safer-buffer@^2.0.2, safer-buffer@^2.1.0, safer-buffer@~2.1.0:
   version "2.1.2"
   resolved "https://registry.yarnpkg.com/safer-buffer/-/safer-buffer-2.1.2.tgz#44fa161b0187b9549dd84bb91802f9bd8385cd6a"
+
+simplepush-notifications@^1.1.2:
+  version "1.1.2"
+  resolved "https://registry.yarnpkg.com/simplepush-notifications/-/simplepush-notifications-1.1.2.tgz#38fad05789a4099537ea9a81c1fdc35f3eec7753"
+  integrity sha512-NImTdutEusefMwEZUufE0GBifvgwmMWVQGhAXbV352AtOYJA10vJW1bKZLDEbwLkI15caM9Po968kdxhJAemIQ==
 
 sshpk@^1.7.0:
   version "1.16.0"

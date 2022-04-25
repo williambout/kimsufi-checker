@@ -1,7 +1,9 @@
 {
   "dependencies": {
+    "dotenv": "^16.0.0",
     "lodash": "^4.17.11",
     "opn": "^5.4.0",
-    "request": "^2.88.0"
+    "request": "^2.88.0",
+    "simplepush-notifications": "^1.1.2"
   }
 }
